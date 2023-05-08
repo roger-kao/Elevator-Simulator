@@ -1,5 +1,6 @@
 # Elevator-Simulator
 This simulator is edited with Unity Engine
+There is a .exe file in ElevatorSimulator
 
 ## Elevator.cs
 In Asset/script， provides class elevator, which has 
